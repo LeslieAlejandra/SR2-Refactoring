@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/antlr-4.7.1-complete.jar"/>
+	<classpathentry kind="lib" path="dist/lib/google-java-format-1.6-all-deps.jar"/>
+	<classpathentry kind="lib" path="dist/lib/Marco_Metricas.jar"/>
+	<classpathentry kind="lib" path="dist/SR2_Refactoring_Java.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-4.7.1-complete.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/google-java-format-1.6-all-deps.jar"/>
+	<classpathentry kind="lib" path="lib/M_todoRefactorizaci_n.jar"/>
+	<classpathentry kind="lib" path="lib/Marco_Metricas.jar"/>
+	<classpathentry kind="lib" path="lib/MrefactorizarCalificador.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
